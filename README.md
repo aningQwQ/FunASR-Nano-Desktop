@@ -1,6 +1,7 @@
 # FunASR-Nano-Desktop
 
 这是一个基于 FunASR-Nano 模型的语音识别桌面应用程序，提供图形化界面进行音频转录。
+python310.8
 
 已知问题：没有自动分片，一小时内容至少需要64GIB内存
 
